@@ -28,10 +28,9 @@ pandas / numpy
 
 matplotlib / seaborn
 
-# Dataset
-Hotel Booking Demand dataset (Kaggle): 
+## Results
 
-https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand
+Ensemble tree-based methods (Random Forest and Gradient Boosting) outperformed linear and distance-based models on both tasks. Deposit type was one of the strongest predictors of cancellation, with almost all non-refundable-deposit bookings being cancelled. Lead time and previous cancellations were also strong predictors, while repeat guests cancelled far less often than new guests.
 
 # Files Included
 
@@ -40,3 +39,10 @@ HotelBookingPrediction.ipynb — project notebook (full pipeline)
 
 
 Detailed documentation, methodology, and results are available directly in the project notebook.
+
+# Dataset
+Hotel Booking Demand dataset (Kaggle): 
+
+https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand
+
+
