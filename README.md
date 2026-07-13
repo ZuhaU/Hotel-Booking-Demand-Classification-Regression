@@ -5,10 +5,15 @@ This project implements a complete machine learning pipeline on the Hotel Bookin
 
 
 Data cleaning (missing values, duplicates, target leakage removal)
+
 Categorical encoding (label + one-hot)
+
 Feature scaling and IQR-based outlier treatment
+
 13-visualization exploratory data analysis
+
 Multi-model classification (6 models: Logistic Regression, KNN, Decision Tree, Random Forest, Gradient Boosting, AdaBoost)
+
 Multi-model regression (6 models: Linear Regression, KNN, Decision Tree, Random Forest, Gradient Boosting, AdaBoost)
 
 
@@ -16,14 +21,19 @@ Multi-model regression (6 models: Linear Regression, KNN, Decision Tree, Random 
 
 
 Python
+
 scikit-learn
+
 pandas / numpy
+
 matplotlib / seaborn
 
 # Dataset
 Hotel Booking Demand dataset (Kaggle): 
+
 https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand
-Files Included
+
+# Files Included
 
 
 HotelBookingPrediction.ipynb — project notebook (full pipeline)
